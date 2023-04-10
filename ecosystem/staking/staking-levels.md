@@ -1,8 +1,8 @@
-# Tiered System
+# Staking Levels
 
 We have designed a tiered system for staking $SPT Tokens, with each tier offering a unique set of benefits. As a staker of $SPT Tokens, you can enjoy the perks of our staking platform and potentially gain early access to exciting token launches.
 
-#### Tier 1
+#### Level 1
 
 _Normal_
 
@@ -12,7 +12,7 @@ _Normal_
 * Pool Weight 0.2
 * Zealy Task Required
 
-#### Tier 2
+#### Level  2
 
 _Explorer_
 
@@ -22,7 +22,7 @@ _Explorer_
 * Pool Weight 0.5
 * Zealy Quests Required
 
-#### Tier 3
+#### Level  3
 
 _Adventurer_
 
@@ -32,7 +32,7 @@ _Adventurer_
 * Pool Weight 2.0
 * Zealy Quests Required
 
-#### Tier 4
+#### Level  4
 
 _Pioneer_
 
@@ -42,7 +42,7 @@ _Pioneer_
 * Pool Weight 3.0
 * No Zealy Quests Required
 
-#### Tier 5
+#### Level  5
 
 _Pathfinder_
 

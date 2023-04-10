@@ -7,7 +7,7 @@
 * [ECOSYSTEM](ecosystem/ecosystem.md)
 * [Launchpad](ecosystem/launchpad.md)
 * [Staking](ecosystem/staking/README.md)
-  * [Tiered System](ecosystem/staking/tiered-system.md)
+  * [Staking Levels](ecosystem/staking/staking-levels.md)
 * [Yield Farming](ecosystem/yield-farming.md)
 
 ## $SPT Token
@@ -15,6 +15,7 @@
 * [$SPT Token Details](usdspt-token/usdspt-token-details.md)
 * [$SPT Utilities](usdspt-token/usdspt-utilities.md)
 * [Tokenomics](usdspt-token/tokenomics.md)
+* [Public Sale](usdspt-token/public-sale.md)
 
 ## project information
 
