@@ -22,5 +22,6 @@
 * [$SPT Airdrop](project-information/usdspt-airdrop.md)
 * [SyncPad Website](https://www.sync-pad.xyz)
 * [SyncPad Discord](https://discord.gg/DnZ4xAAa2H)
-* [SyncPad Twitter](https://twitter.com/Sync\_Pad)
+* [SyncPad Github](https://github.com/Sync-Pad)
 * [Join Testnet Airdrop](https://www.sync-pad.xyz)
+* [SyncPad Twitter](https://twitter.com/Sync\_Pad)
