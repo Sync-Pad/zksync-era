@@ -1,44 +1,14 @@
-# zkSync Era: A ZK Rollup For Scaling Ethereum
+---
+description: Community Driven Launchpad on zkSync
+---
 
-[![Logo](eraLogo.png)](https://zksync.io/)
+# 🚀 SyncPad&#x20;
 
-zkSync Era is a layer 2 rollup that uses zero-knowledge proofs to scale Ethereum without compromising on security or
-decentralization. Since it's EVM compatible (Solidity/Vyper), 99% of Ethereum projects can redeploy without refactoring
-or re-auditing a single line of code. zkSync Era also uses an LLVM-based compiler that will eventually let developers
-write smart contracts in C++, Rust and other popular languages.
+## Introduction
 
-## Knowledge Index
+SyncPad is a cutting-edge platform that runs on zkSync Era and is fully integrated within the broader zkSync ecosystem. Our platform is designed to provide users with a seamless and intuitive experience, leveraging the latest advancements in blockchain technology to offer unparalleled security and scalability. By operating within the zkSync ecosystem, we are able to offer users access to a wide range of tools and services that are specifically tailored to meet the needs of modern investors.
 
-The following questions will be answered by the following resources:
+{% hint style="info" %}
+Our mission is to equip crypto ventures with the capacity to secure funding on the most secure and scalable Layer 2 blockchain  through community-driven efforts.
+{% endhint %}
 
-| Question                                                | Resource                                |
-| ------------------------------------------------------- | --------------------------------------- |
-| What do I need to develop the project locally?          | [development.md](docs/development.md)   |
-| How can I set up my dev environment?                    | [setup-dev.md](docs/setup-dev.md)       |
-| How can I run the project?                              | [launch.md](docs/launch.md)             |
-| What is the logical project structure and architecture? | [architecture.md](docs/architecture.md) |
-| Where can I find developer docs?                        | [docs](https://v2-docs.zksync.io/dev/)  |
-
-## License
-
-zkSync Era is distributed under the terms of either
-
-- Apache License, Version 2.0, ([LICENSE-APACHE](LICENSE-APACHE) or <http://www.apache.org/licenses/LICENSE-2.0>)
-- MIT license ([LICENSE-MIT](LICENSE-MIT) or <http://opensource.org/licenses/MIT>)
-
-at your option.
-
-## Official Links
-
-- [Website](https://zksync.io/)
-- [GitHub](https://github.com/matter-labs)
-- [Twitter](https://twitter.com/zksync)
-- [Twitter for Devs](https://twitter.com/zkSyncDevs)
-- [Discord](https://discord.gg/nMaPGrDDwk)
-
-## Disclaimer
-
-zkSync Era has been through lots of testing and audits. Although it is live, it is still in alpha state and will go
-through more audits and bug bounties programs. We would love to hear our community's thoughts and suggestions about it!
-It is important to state that forking it now can potentially lead to missing important security updates, critical
-features, and performance improvements.
